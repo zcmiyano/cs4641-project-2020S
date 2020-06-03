@@ -1,6 +1,8 @@
 # cs4641-project group9
 ML Group Project Spring 2020
 
+Original repo: https://github.com/suraj-masand/cs4641-project.git
+
 Please install GIT LFS before cloning to repo to make sure that the large file(s) are pulled successfully.
 
 [GIT LFS Installation Guide](https://help.github.com/en/github/managing-large-files/installing-git-large-file-storage). Make sure you follow the steps corresponding to your operation system.
